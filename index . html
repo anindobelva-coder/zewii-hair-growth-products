@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Zewii Hair Growth Products</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        img {
+            max-width: 90%;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Zewii Hair Growth Products</h1>
+    <p>A herbal infused hair and scalp oil formulated to nourish the scalp and support hair growth.</p>
+
+    <img src="WhatsApp Image 2026-02-07 at 5.13.06 AM.jpeg" alt="Hair oil product">
+
+</body>
+</html>
